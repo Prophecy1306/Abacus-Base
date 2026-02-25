@@ -1,17 +1,20 @@
-<div align="centre">
+<div align="left">
 
 ##  **Introduction📜**
 
+I’m building a simple calculator as a mini dApp on Base.  The idea is straightforward. Most people think dApps have to be complex, full of tokens and charts. I wanted to start with something everyone understands. A calculator but instead of running locally, it lives on-chain.
+
 </div>
-
-I’m building a simple calculator as a mini dApp on Base.  The idea is straightforward. Most people think dApps have to be complex, full of tokens and charts. I wanted to start with something everyone understands. A calculator. But instead of running locally, it lives on-chain.
-
 
 <div align="center">
-  
-##  **Pre-Requirements⚙️**
+
+#  📱 **Abacus [Base Mini App]** 📱
+
 
 </div>
+
+
+##  **Pre-Requirements⚙️**
 
 1.) Create V0 account :- https://v0.app/ref/S4PSH0
 
