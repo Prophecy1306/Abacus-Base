@@ -186,6 +186,15 @@ Download Base App : https://play.google.com/store/apps/details?id=org.toshi
 
 * >and follow video process
 
+<div align="center">
+
+#  ✍️ **Manually scripted thought logs** ✍️
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b39b8749-10bd-4507-a4fa-b2182a1d81b3" width="45%" />
+  <img src="https://github.com/user-attachments/assets/91e9d51b-fb02-4c00-b331-a642e1d2d542" width="45%" />
+</p>
+
 # Done✔️✔️
 
 <pre>
