@@ -48,7 +48,10 @@ Create the Calculator Application
 
 - Designe with a modern dark theme using Tailwind CSS
 ```
-
+Also, you can add Project Name :
+```
+My Project Name : [Your Project Name]
+```
 ■ Step 2 : 
 
 * >Deploy the project & copy the url & save it .
