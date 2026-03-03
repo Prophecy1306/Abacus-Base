@@ -48,19 +48,23 @@ Create the Calculator Application
 
 - Designe with a modern dark theme using Tailwind CSS
 ```
+* Deploy Vercel
+
+■ Step 2 : 
 Also, you can add Project Name :
 ```
 My Project Name : [Your Project Name]
 ```
+* Deploy Vercel
+
 * >After this, you have to Click on `Publish` → `Publish Production` and wait until the Building is Ready.
-* >When the Building is Ready, if you click on the URL at the top → it will redirect you to a new page then you have to `copy the URL` of that page.
-
-■ Step 2 : 
-
-* >Deploy the project & copy the url & save it .
-
+* >When the Building is Ready, if you click on the URL at the top → it will redirect you to a new page then you have to `copy the URL` of that page and `save` it somewhere.
 
 ■ Step 3 :  
+* Before copying this code, you have to make changes in this code at two places: 
+* >1st - `My Project Name`
+* >2nd - `My Project URL`
+
 ```
 Create the Farcaster Manifest File
 
@@ -101,19 +105,23 @@ My url link : [Replace this Your Project URL Link]
   }
 }
 ```
+* Deploy Vercel
+
+Before applying `Step 4` you need to download any `calculator image` from Google and load it on Vercel.
 
 ■ Step 4 : 
-
+```
 Added Required Images
 
-* i attach a image , so convert that image as required ratio and attach the same image in our mini app for all 3 forms .
+- i attach a image , so convert that image as required ratio and attach the same image in our mini app for all 3 forms .
 
-* >icon.png (300×300px) - A small icon of your app
+* icon.png (300×300px) - A small icon of your app
 
-* >splash.png (200×200px) - A splash screen image
+* splash.png (200×200px) - A splash screen image
 
-* >screenshot.png (1284×2778px) - A screenshot showing how the app looks
-
+* screenshot.png (1284×2778px) - A screenshot showing how the app looks
+```
+* Deploy Vercel
 
 ■ Step 5 
 ```
