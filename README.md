@@ -57,8 +57,8 @@ My Project Name : [Your Project Name]
 ```
 * Deploy Vercel
 
-* >After this, you have to Click on `Publish` → `Publish Production` and wait until the Building is Ready.
-* >When the Building is Ready, if you click on the URL at the top → it will redirect you to a new page then you have to `copy the URL` of that page and `save` it somewhere.
+After this, you have to Click on `Publish` → `Publish Production` and wait until the Building is Ready.
+When the Building is Ready, if you click on the URL at the top → it will redirect you to a new page then you have to `copy the URL` of that page and `save` it somewhere.
 
 ■ Step 3 :  
 * Before copying this code, you have to make changes in this code at two places: 
@@ -148,7 +148,6 @@ Added Embed Metadata
 Also, There If it asks you to `skip` or `accept` something → `accept` it.
 
 Also, There are no changes to be made in `step 6` just copy and deploy it to Vercel.
-
 ■ Step 6: 
 ```
 Added Farcaster Miniapp SDK Integration
@@ -164,7 +163,6 @@ Added Farcaster Miniapp SDK Integration
 * Deploy Vercel
 
 Also, There are no changes to be made in `step 7` just copy and deploy it to Vercel.
-
 ■ Step 7: 
 ```
 Update Next.js Configuration
@@ -180,6 +178,8 @@ Update Next.js Configuration
 Once all these steps are completed then you will have to go to `Publish` and make the `Publish Changes`
 
 * >Wait until this is `completed` and Until then do not apply the next steps.
+
+■ Step 8 : `Mini App Ownership`
 
 Then Open Farcaster in Pc/Laptop 
 
@@ -207,6 +207,12 @@ then you will have to go to `Publish` and make the `Publish Changes`,Keep doing 
 
 * >if recalibration is complete, you will need to go back to the `Farcaster website` and `reverify`
 * >then click `submit` (If you get an error after submitting then copy the error and deploy it on Vercel.)
+After this, you have to Click on `Publish` → `Publish Production` and wait until the Building is Ready.
+
+Then,
+* >Open `Base Build` Wwebsite (I have given the link above)
+* >You need to enter your `Project Name` and `Project URL`.
+
 
 ■ Step 8 : `Mini App Ownership`
 
