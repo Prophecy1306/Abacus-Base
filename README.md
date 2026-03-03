@@ -211,8 +211,8 @@ then you will have to go to `Publish` and make the `Publish Changes`,Keep doing 
 After this, you have to Click on `Publish` → `Publish Production` and wait until the Building is Ready.
 
 ■ Step 9 : [Register Domain]
-Then,
-* >Open `Base Build` Wwebsite (I have given the link above)
+
+* Open `Base Build` Wwebsite (I have given the link above)
 * >You need to enter your `Project Name` and `Project URL`.
 
 Copy the `Prompt` and `HTML code` below the app URL and deploy it to Vercel.
@@ -231,7 +231,11 @@ Then you will see your mini app in the bottom corner.
 Then you have to go to the `Home page` of the `base build` and `featured` your mini app 
 (but I suggest you don't feature it right now, until you've created something great because this is a very simple thing that we've just created). And to get featured in it you'll also have to clear some basic criteria.
 
-🔗 Form Link :- https://docs.google.com/forms/d/e/1FAIpQLSeZiB3fmMS7oxBKrWsoaew2LFxGpktnAtPAmJaNZv5TOCXIZg/viewform
+* 🔗 Form Link :- https://docs.google.com/forms/d/e/1FAIpQLSeZiB3fmMS7oxBKrWsoaew2LFxGpktnAtPAmJaNZv5TOCXIZg/viewform
+
+* 🔗 Base App Leaderboard :- https://www.base.dev/apps/69a74eef898014aa67a21549/leaderboard?type=chain
+
+(With this you can see here which app is at what rank on `Base App`.)
 
 
 <div align="center">
