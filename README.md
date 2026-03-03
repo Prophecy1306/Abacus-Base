@@ -209,31 +209,26 @@ then you will have to go to `Publish` and make the `Publish Changes`,Keep doing 
 * >then click `submit` (If you get an error after submitting then copy the error and deploy it on Vercel.)
 After this, you have to Click on `Publish` → `Publish Production` and wait until the Building is Ready.
 
+■ Step 9 : [Register Domain]
 Then,
 * >Open `Base Build` Wwebsite (I have given the link above)
 * >You need to enter your `Project Name` and `Project URL`.
 
+Copy the `Prompt` and `HTML code` below the app URL and deploy it to Vercel.
+<img width="593" height="138" alt="Screenshot 2026-03-04 025101" src="https://github.com/user-attachments/assets/77cf18ae-8f60-4ff3-b257-1e8fe6b00cd4" />
+Then again, you have to Click on `Publish` → `Publish Production` and wait until the Building is Ready.
 
-■ Step 8 : `Mini App Ownership`
+* >Then you have to go to the base build website and click on `Verfie & Add`.
+  >Go to Mini App Tools → Paste your `Project URL` → Click `Submit` (Now you will see your project name below.)
 
-* >Now for one time , click on deploy & deploy again 
+Then you will see your mini app in the bottom corner.
+<img width="473" height="88" alt="Screenshot 2026-03-04 030028" src="https://github.com/user-attachments/assets/eca334c1-1381-413b-bf23-afe0f68a0622" />
 
-* >then Reverify and Submit .
+Then you have to go to the `Home page` of the `base build` and `featured` your mini app 
+(but I suggest you don't feature it right now, until you've created something great because this is a very simple thing that we've just created). And to get featured in it you'll also have to clear some basic criteria.
 
-■ Step 9 : [Register Domain]
+🔗 Form Link :- https://docs.google.com/forms/d/e/1FAIpQLSeZiB3fmMS7oxBKrWsoaew2LFxGpktnAtPAmJaNZv5TOCXIZg/viewform
 
-Download Base App : https://play.google.com/store/apps/details?id=org.toshi
-
-* >Create Account with email 
-
-* >then connect same farcaster account 
-
-
-* Then Visit : https://www.base.dev/
-
-* >signin with same base app email . 
-
-* >and follow video process
 
 <div align="center">
 
