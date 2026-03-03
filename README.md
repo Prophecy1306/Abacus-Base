@@ -130,7 +130,7 @@ If it asks you to `skip` or `accept` something → `accept` it.
 
 There are no changes to be made in `step 5` just copy and deploy it to Vercel.
 
-■ Step 5 
+■ Step 5 :
 ```
 Added Embed Metadata
 
@@ -151,6 +151,7 @@ Added Embed Metadata
 Also, There If it asks you to `skip` or `accept` something → `accept` it.
 
 Also, There are no changes to be made in `step 6` just copy and deploy it to Vercel.
+
 ■ Step 6: 
 ```
 Added Farcaster Miniapp SDK Integration
@@ -166,6 +167,7 @@ Added Farcaster Miniapp SDK Integration
 * Deploy Vercel
 
 Also, There are no changes to be made in `step 7` just copy and deploy it to Vercel.
+
 ■ Step 7: 
 ```
 Update Next.js Configuration
