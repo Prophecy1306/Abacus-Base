@@ -12,6 +12,8 @@ I’m building a simple calculator as a mini dApp on Base.  The idea is straight
 
 <img width="1253" height="739" alt="Screenshot 2026-03-04 031704" src="https://github.com/user-attachments/assets/1c36f6e6-0131-49b3-b525-ec712662d5ac" />
 
+🔗 https://v0-calculator-app-design-coral.vercel.app/  (Mini app I created.)
+
 </div>
 
 
