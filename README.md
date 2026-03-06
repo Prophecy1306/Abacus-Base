@@ -1,6 +1,6 @@
 <div align="left">
 
-#  👨🏻‍💻 **Base Mini Apps: Beginner to Pro Guide (Workflow, Roadmap & Real Builds)** 👨🏻‍💻 
+#  👨🏻‍💻 **Base : Beginner to Pro Guide (Workflow, Roadmap & Real Builds)** 👨🏻‍💻 
 
 </div>
 
